@@ -17,6 +17,7 @@ install:
 # 安装最新的hugo
   - git clone https://github.com/gohugoio/hugo.git
   - cd hugo
+
   - go install
   # - go get -v github.com/gohugoio/hugo
   # - go get github.com/gohugoio/hugo 

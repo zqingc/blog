@@ -1,7 +1,7 @@
 # This is a simple configuration.
 # And see https://gohugo.io/getting-started/configuration/ .
 
-baseURL = "https://heemooo.gitee.io/"
+baseURL = "https://zqingc.github.com"
 title = "清言清语"
 theme= "hugo-theme-amaze"
 enableRobotsTXT = true

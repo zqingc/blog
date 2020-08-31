@@ -11,7 +11,9 @@ branches:
 
 install:
 # 安装最新的hugo
-  - go get github.com/gohugoio/hugo 
+  - git clone https://github.com/golang/sync.git
+  - go get -v github.com/gohugoio/hugo
+  # - go get github.com/gohugoio/hugo 
 
 script:
 # 运行hugo命令

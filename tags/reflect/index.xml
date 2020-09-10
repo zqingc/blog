@@ -6,11 +6,7 @@
     <description>Recent content in Reflect on 清言清语</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 19 Oct 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://zqingc.github.com/blog/tags/reflect/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 19 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://zqingc.github.com/blog/tags/reflect/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>利用Java反射封装Jdbc的查询结果</title>
       <link>https://zqingc.github.com/blog/post/java/java-reflect-jdbc.html</link>

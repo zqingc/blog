@@ -6,11 +6,7 @@
     <description>Recent content in corn on 清言清语</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 05 Oct 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://zqingc.github.com/blog/tags/corn/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 05 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://zqingc.github.com/blog/tags/corn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ubuntu开启定时任务</title>
       <link>https://zqingc.github.com/blog/post/linux/ubuntu-start-corn-task.html</link>

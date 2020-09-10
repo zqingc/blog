@@ -6,11 +6,7 @@
     <description>Recent content in Python on 清言清语</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 04 Nov 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://zqingc.github.com/blog/categories/python/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 04 Nov 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://zqingc.github.com/blog/categories/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Python快速搭建web应用</title>
       <link>https://zqingc.github.com/blog/post/python/python-web-bottle.html</link>

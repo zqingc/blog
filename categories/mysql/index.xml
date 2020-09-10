@@ -6,11 +6,7 @@
     <description>Recent content in MySQL on 清言清语</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://zqingc.github.com/blog/categories/mysql/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://zqingc.github.com/blog/categories/mysql/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Windows上配置免安装版MySQL</title>
       <link>https://zqingc.github.com/blog/post/windows/windows-install-mysql.html</link>

@@ -6,11 +6,7 @@
     <description>Recent content in CSS on 清言清语</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 06 Sep 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://zqingc.github.com/blog/categories/css/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 06 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://zqingc.github.com/blog/categories/css/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CSS IE条件注释</title>
       <link>https://zqingc.github.com/blog/post/css/css-ie-conditional-comment.html</link>

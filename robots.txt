@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://zqingc.github.com/blog/sitemap.xml

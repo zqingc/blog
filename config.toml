@@ -53,4 +53,4 @@ defaultContentLanguage = "zh-cn"           # Default language to use
   [params.social]                                         # 社交链接
     GitHub = "zqingc"
     QQ = "709361135"
-    WeiBo = "https://weibo.com/1736003065/profile?topnav=1&wvr=6&is_all=1"
+   # WeiBo = "https://weibo.com/1736003065/profile?topnav=1&wvr=6&is_all=1"
